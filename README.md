@@ -271,11 +271,7 @@
 <iframe src="https://maps.google.com/maps?saddr=vancouver+ca&daddr=lynden+wa&output=embed" width="600" height="450"></iframe>
 
 - **Peace Arch Park（和平拱门州立公园）**: 美加边境地标，花园与雕塑。
-
-
 - **Lynden Downtown**: 荷兰风情小镇，风车与百年商街。
-
-
 - **Birch Bay State Park**: 潮汐与海湾日落，野餐与轻徒步。
 
 
