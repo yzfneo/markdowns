@@ -279,7 +279,6 @@
 ### Additional Attractions
 - **Picture Lake or Heather Meadows**: ~10-15 min drive from base, trails, entry permit $20-30, check Sept snow.
 
-    <Map of Mount Baker:>
     <iframe src="https://maps.google.com/maps?q=mount+baker+national+park&output=embed" width="600" height="450"></iframe>
 
 - **Artist Point**: 终点观景平台，晴天可见Shuksan与Baker双峰。
@@ -417,7 +416,6 @@
 ### Additional Attractions
 - **Arlington National Cemetery**: Historic, ~20 min drive, free entry (reserve tour), Metro $2 from Farragut West. **History**: Established 1864 during Civil War, 400,000+ graves including JFK and Unknown Soldiers. **Interesting Fact**: More than 3,000 burials annually, guards changed every hour/30 minutes. **Culture**: Witness the solemn changing of the guard at Tomb of Unknown Soldier.
 
-    <Map Route to Arlington National Cemetery:>
     <iframe src="https://maps.google.com/maps?saddr=potomac+park+dc&daddr=arlington+national+cemetery&output=embed" width="600" height="450"></iframe>
 
 - **National Archives Museum**: 《独立宣言》《宪法》原件收藏处。**History**: Built 1935, houses America's founding documents. **Interesting Fact**: Declaration of Independence shows 56 signatures, including Benjamin Franklin's. **Culture**: See the actual documents that shaped American democracy, displayed in rotunda.
@@ -434,7 +432,6 @@
 - **Lincoln Memorial**: Near Monuments, ~20 min walk, free.
 - **Dupont Circle**: Nearby for shopping.
 
-    <Map of Smithsonian Museums:>
     <iframe src="https://maps.google.com/maps?q=smithsonian+museums+washington+dc&output=embed" width="600" height="450"></iframe>
 
 - **The Wharf DC**: 河畔街区，餐厅与夜景。
@@ -456,7 +453,6 @@
 
 - **Bryant Park** or **Times Square Subway Station Features**. **History**: Site of New York's first World's Fair (1853), transformed from 1970s decline to vibrant public space. **Interesting Fact**: Hosts free summer movie nights and winter ice skating. **Restaurants**: Try "Bryant Park Grill" for American classics (~$25-40), or food trucks for diverse street food.
 
-    <Map of Times Square and surroundings:>
     <iframe src="https://maps.google.com/maps?q=times+square+new+york&output=embed" width="600" height="450"></iframe>
 
 - **Top of the Rock / Empire State Building 夜景**: 任选其一，注意预约时段。**History**: Empire State (1931) was world's tallest building for 40 years; Top of the Rock (1933) offers better Central Park views. **Interesting Fact**: Empire State hit by plane in 1945, survived with minimal damage. **Culture**: Top of the Rock shows all five boroughs; Empire State has Art Deco interiors.
@@ -473,7 +469,6 @@
 ### Additional Attractions
 - **Top of the Rock Observation Deck**: $40, evening views at Rockefeller.
 
-    <Map of Central Park:>
     <iframe src="https://maps.google.com/maps?q=central+park+new+york&output=embed" width="600" height="450"></iframe>
 
 - **The Metropolitan Museum of Art (MET)**: 世界级馆藏，建议预留3小时以上。
@@ -490,7 +485,6 @@
 - **Ellis Island Ferry**: $24 from Battery Park, ~30 min.
 - **USS Intrepid Museum**: $33, nearby.
 
-    <Map around Battery Park:>
     <iframe src="https://maps.google.com/maps?q=battery+park+new+york&output=embed" width="600" height="450"></iframe>
 
 - **9/11 Memorial & Museum**: 纪念池与展馆，沉浸式历史回顾。
@@ -513,7 +507,6 @@
 
 - **Alcatraz Tour**: $42 from Pier 33, 1-2 hr ferry. **History**: Federal prison (1934-1963) housed Al Capone and "Birdman" Robert Stroud. **Interesting Fact**: 36 prisoners attempted 14 escapes, none successful. **Culture**: Audio tour narrated by former guards and prisoners provides authentic experience.
 
-    <Map of Golden Gate Bridge:>
     <iframe src="https://maps.google.com/maps?q=golden+gate+bridge+san+francisco&output=embed" width="600" height="450"></iframe>
 
 - **Lombard Street（九曲花街）**: 弯道花街，建议自上而下步行。**History**: Built 1922 to make steep hill drivable, features 8 switchbacks. **Interesting Fact**: Paved with red bricks, one-way street descending at 27% grade. **Culture**: Most crooked street in world, attracts 2 million visitors annually.
@@ -540,7 +533,6 @@
 
 - **Computer History Museum**: $20 for tech history. **History**: Founded 1996, world's largest collection of computing artifacts. **Interesting Fact**: Houses ENIAC, first Apple computer, and Google's first server. **Culture**: Interactive exhibits show evolution from Babbage to AI.
 
-    <Map of Stanford University:>
     <iframe src="https://maps.google.com/maps?q=stanford+university&output=embed" width="600" height="450"></iframe>
 
 - **Googleplex & Android Lawn Statues（Mountain View）**: 户外安卓雕像，科技粉丝打卡。**History**: Google's headquarters since 2004, name combines "Google" and "complex". **Interesting Fact**: Campus includes T-Rex skeleton, volleyball courts, and free gourmet food. **Restaurants**: Try "Google Cafe" for free employee-quality meals, or nearby "The Counter" for custom burgers (~$15-20). **Culture**: See colorful Android statues representing different OS versions.
@@ -570,7 +562,6 @@
 ### Additional Attractions
 - **Shirahama Onsen**: Hot springs, ~10 min from hotel, free public areas.
 
-    <Map of Shirahama:>
     <iframe src="https://maps.google.com/maps?q=shirahama+onsen+japan&output=embed" width="600" height="450"></iframe>
 
 - **Sandanbeki（三段壁）**: 海蚀断崖与洞窟电梯，浪花壮观。
