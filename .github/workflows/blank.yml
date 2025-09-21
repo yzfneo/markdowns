@@ -3,7 +3,7 @@ name: Deploy Markdown to GitHub Pages
 on:
   push:
     branches: [ "main" ]
-    paths: [ "README.md" ]
+    paths: [ "202509_travel.md" ]
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
@@ -43,7 +43,7 @@ jobs:
           import os
 
           # Read the markdown file
-          with open('README.md', 'r', encoding='utf-8') as f:
+          with open('202509_travel.md', 'r', encoding='utf-8') as f:
             md_content = f.read()
 
           # Convert to HTML
